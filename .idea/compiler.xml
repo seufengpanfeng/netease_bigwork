@@ -27,6 +27,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="netease_bigwork" target="1.7" />
+      <module name="udf_function" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

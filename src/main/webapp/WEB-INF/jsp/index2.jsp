@@ -22,16 +22,18 @@
     </div>
     <div class="n-plist">
         <ul class="f-cb" id="plist">
-            <c:if test="${cookie.user.value =='seller'||cookie.user.value ==''}" >
+            <%--<c:if test="${cookie.user.value =='seller'||cookie.user.value ==''}" >--%>
                 <c:forEach var = "item" items="${list}">
                     <li id="p-${item.gid}">
                         <a href="/show?id=${item.gid}" class="link">
                             <div class="img"><img src=${item.image} alt=${item.title}></div>
                             <h3>${item.title}</h3>
                             <div class="price"><span class="v-unit">￥</span><span class="v-value">${item.sellPrice}</span></div>
-                            <c:if test="${item.sell}" >
-                                <span class="had"><b>已售出</br>${item.sellCount}件</b></span>
-                                <%--<span class="had"><b>${item.sellCount}件</b></span>--%>
+                            <c:if test="${cookie.user.value =='seller'||cookie.user.value ==''}" >
+                                <c:if test="${item.sell}" >
+                                    <span class="had"><b>已售出</br>${item.sellCount}件</b></span>
+                                    <%--<span class="had"><b>${item.sellCount}件</b></span>--%>
+                                </c:if>
                             </c:if>
                             <c:if test="${!item.sell && cookie.user.value =='seller'}" >
                                 <div class="del2">
@@ -41,7 +43,7 @@
                         </a>
                     </li>
                 </c:forEach>
-            </c:if>
+            <%--</c:if>--%>
 
             <c:if test="${cookie.user.value =='buyer'}" >
                 <c:forEach var = "item" items="${list}">
