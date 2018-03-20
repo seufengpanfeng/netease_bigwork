@@ -2,97 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db22761-f5b3-42cc-ab5f-995a06e51dd2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/Model/HostHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/FreeMarkerViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/ItemController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/interceptor/LoginIntercepor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/interceptor/PassIntercepor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/mapper/UserMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/mapper/UserMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/BGS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/BuyerGoods.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/Data.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/Goods.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/service/impl/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/db.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/freemarker.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/spring/springMVC.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/15215120028063.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/15215133442080.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/15215155765622.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageIndex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageLogin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageShow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/public.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/settleAccount.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/account.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/cart.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/deleteSubmit.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/edit.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/editSubmit.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/include/header.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/include/publicInfo.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/index2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/publicSubmit.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/publish.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/sellerShow.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/classloader-leak-prevention-core-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/classloader-leak-prevention-servlet-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.20.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/footer.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/head.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/header.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/support.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/login.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/image/15215120028063.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/image/15215133442080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/image/15215155765622.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index2_jsp.class" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index2_jsp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-03-20" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-03-20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/include/header_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/include/header_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/include/publicInfo_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/include/publicInfo_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index2_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index2_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/login_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/login_jsp.java" />
     </list>
     <ignored path="netease_bigwork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -139,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="211" column="38" selection-start-line="211" selection-start-column="38" selection-end-line="211" selection-end-column="38" />
+              <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -189,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index2.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            <state relative-caret-position="114">
+              <caret line="30" column="128" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -305,8 +226,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Result.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/edit.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" />
       </list>
     </option>
   </component>
@@ -452,6 +373,44 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netease_bigwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netease_bigwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -472,6 +431,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netease_bigwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netease_bigwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1247,7 +1224,7 @@
       <workItem from="1521510800492" duration="15081000" />
       <workItem from="1521531087329" duration="123000" />
       <workItem from="1521531494378" duration="1458000" />
-      <workItem from="1521535132678" duration="1169000" />
+      <workItem from="1521535132678" duration="2997000" />
     </task>
     <task id="LOCAL-00001" summary="添加日志">
       <created>1517834041658</created>
@@ -1397,7 +1374,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="545348000" />
+    <option name="totallyTimeSpent" value="547176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1417,23 +1394,23 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5637255" sideWeight="0.46596065" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3398693" sideWeight="0.42284417" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3898858" sideWeight="0.49394855" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16187595" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25637755" sideWeight="0.49426934" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32352942" sideWeight="0.82375187" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5637255" sideWeight="0.5340393" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39542484" sideWeight="0.5340393" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21406959" sideWeight="0.7790368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583964" sideWeight="0.7790368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28657618" sideWeight="0.22096318" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24923313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4869281" sideWeight="0.580938" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3398693" sideWeight="0.5771558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1798,18 +1775,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        <state relative-caret-position="209">
+          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="211" column="38" selection-start-line="211" selection-start-column="38" selection-end-line="211" selection-end-column="38" />
+        <state relative-caret-position="114">
+          <caret line="30" column="128" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
           <folding />
         </state>
       </provider>
